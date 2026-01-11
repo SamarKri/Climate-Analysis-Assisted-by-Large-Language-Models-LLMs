@@ -1,0 +1,14 @@
+Flask
+pandas
+matplotlib
+seaborn
+plotly
+numpy
+pytest 
+pytest-flask
+langchain
+langchain_experimental
+langchain_community
+langchain-google-genai
+deep_translator
+python-dotenv
