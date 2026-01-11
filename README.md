@@ -1,4 +1,4 @@
-# Climate-Analysis-Assisted-by-Large-Language-Models-LLMs
+# Climate-Analysis-Assisted-by-Large-Language-Models
 
 <h2 align="center"><strong>LLM's Climate Analysis - FLASK Application</strong></h2>
 <p align="center">
